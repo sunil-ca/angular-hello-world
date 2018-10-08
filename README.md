@@ -30,4 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 http://sunilsharma.info/angular-hello
 
+Update - index.html - and add dot (.) in front of (/) in the following line
+<base href="./">
+
 Important Note - https://github.com/mgechev/angular-seed/wiki/Deploying-prod-build-to-Apache-2
