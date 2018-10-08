@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng start`. Browser will open automaticaaly. The app will automatically reload if you change any of the source files.
+Run `ng start`. Browser will open automatically. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
